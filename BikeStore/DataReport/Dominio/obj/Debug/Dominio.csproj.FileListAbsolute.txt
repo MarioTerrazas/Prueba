@@ -1,0 +1,54 @@
+C:\Users\PC\source\repos\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DataReport\Dominio\bin\Debug\Dominio.dll
+C:\Users\PC\source\repos\DataReport\Dominio\bin\Debug\Dominio.pdb
+C:\Users\PC\source\repos\DataReport\Dominio\bin\Debug\DataAccess.dll
+C:\Users\PC\source\repos\DataReport\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\PC\source\repos\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\PC\source\repos\DataReport\Dominio\obj\Debug\Dominio.dll
+C:\Users\PC\source\repos\DataReport\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\bin\Debug\Dominio.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\obj\Debug\Dominio.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Dominio\obj\Debug\Dominio.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\bin\Debug\Dominio.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\bin\Debug\Dominio.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\bin\Debug\DataAccess.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\bin\Debug\DataAccess.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\obj\Debug\Dominio.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Dominio\obj\Debug\Dominio.pdb
+C:\Users\willy\Downloads\DataReport\Dominio\bin\Debug\Dominio.dll
+C:\Users\willy\Downloads\DataReport\Dominio\bin\Debug\Dominio.pdb
+C:\Users\willy\Downloads\DataReport\Dominio\bin\Debug\DataAccess.dll
+C:\Users\willy\Downloads\DataReport\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\willy\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\willy\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\willy\Downloads\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\willy\Downloads\DataReport\Dominio\obj\Debug\Dominio.dll
+C:\Users\willy\Downloads\DataReport\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Dominio\obj\Debug\Dominio.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\bin\Debug\Dominio.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\bin\Debug\Dominio.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\bin\Debug\DataAccess.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\bin\Debug\DataAccess.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\obj\Debug\Dominio.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Dominio\obj\Debug\Dominio.pdb

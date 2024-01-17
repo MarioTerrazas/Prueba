@@ -1,0 +1,566 @@
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\source\repos\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\source\repos\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\EnvDTE.xml
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Presentacion.exe
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\DataAccess.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Dominio.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\stdole.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\Dominio.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.Form2.resources
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.exe
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.Form3.resources
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\bin\Debug\EnvDTE.xml
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\Presentacion\obj\Debug\Presentacion.MainForm.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Form3.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.MainForm.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\willy\Downloads\DataReport\Presentacion\obj\Debug\Presentacion.CP_cliente.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\EnvDTE.xml
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.ClientForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.CP_cliente.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.Form3.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.MainForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.OrderForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Desktop\Desarrollo de sistemas II\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.NuevaOrden.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.CP_cliente.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.Form3.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.MainForm.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.OrderForm.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Downloads\DataReport\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.exe
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\DataAccess.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Dominio.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\stdole.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.MSXML.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\Dominio.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\EnvDTE.xml
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.NuevaOrden.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.CP_cliente.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.Form2.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.Form3.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.MainForm.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.OrderForm.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.exe
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\stdole.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\EnvDTE.xml
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.OrdenForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.CP_cliente.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.ReporteForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.ProductForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.LoginForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.MainAddForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.MainOrderForm.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ing.MarioTerrazas\Desktop\ProyectoTerrazas\BikeStore\DataReport\Presentacion\obj\Debug\Presentacion.pdb

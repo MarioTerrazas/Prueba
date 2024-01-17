@@ -1,0 +1,36 @@
+C:\Users\PC\source\repos\DataReport\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\PC\source\repos\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\PC\source\repos\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DataReport\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\PC\source\repos\DataReport\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ing.MarioTerrazas\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\bin\Debug\DataAccess.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\obj\Debug\DataAccess.dll
+F:\Octubre.2023\Desarrollo de sistemas II\ACTIVIDAD2\DataReport\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\willy\Downloads\DataReport\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\willy\Downloads\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\willy\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\willy\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\willy\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\willy\Downloads\DataReport\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Usuario\Downloads\DataReport\DataReport\DataAccess\obj\Debug\DataAccess.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\bin\Debug\DataAccess.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\bin\Debug\DataAccess.pdb
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\obj\Debug\DataAccess.dll
+E:\ingenieria -upds-mario eduardo\Desarrollo de sistemas II\BikeStore\BikeStore\BikeStore\DataReport\DataAccess\obj\Debug\DataAccess.pdb
